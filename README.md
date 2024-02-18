@@ -1,5 +1,5 @@
-
 Estudo sobre Desempenho de Atacantes no Futebol
+
 As contratações no mundo do futebol sempre envolveram a consideração de diversos fatores, e atualmente, o mercado de transferências tem se tornado cada vez mais complexo e influente. Essa complexidade não apenas afeta o ecossistema do futebol, mas também pode ter impactos significativos na economia local.
 
 Este estudo tem como objetivo investigar e analisar quais características e indicadores quantitativos dos atacantes influenciam o desempenho de um jogador em uma temporada específica. A partir dessas análises, busca-se desenvolver um modelo que leve em consideração esses dados, com o propósito de estimar o desempenho deste jogador ao subir de divisão na mesma liga em que atua.
